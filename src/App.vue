@@ -9,13 +9,12 @@
 
 <script>
 // 引入header
-import Header from "./components/Header.vue";
+import Header from './components/Header.vue'
 // 引入Footer
-import Footer from "./components/Footer.vue";
+import Footer from './components/Footer.vue'
 export default {
-  name: "App",
+  name: 'App',
   components: { Header, Footer },
-};
+}
 </script>
-<style>
-</style>
+<style></style>

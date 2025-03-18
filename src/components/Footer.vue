@@ -4,7 +4,7 @@
     <div class="footer-container">
       <div class="footerList">
         <div class="footerItem">
-          <h4>购物指南</h4>
+          <h4>购物指南lxl</h4>
           <ul class="footerItemCon">
             <li>购物流程</li>
             <li>会员介绍</li>
@@ -107,8 +107,8 @@
 
 <script>
 export default {
-  name: "Footer",
-};
+  name: 'Footer',
+}
 </script>
 <style lang="less" scoped>
 .footer {
